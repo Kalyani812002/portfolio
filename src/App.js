@@ -7,7 +7,7 @@ function App() {
     {
       name: "React Typing App",
       description: "Typing speed test application built using React.",
-      github: "https://github.com/yourusername/react-typing-app",
+      github: "https://github.com/Kalyani812002/react-typing-app",
       live: "https://typing-app.vercel.app"
     },
     {
@@ -26,7 +26,7 @@ function App() {
       name: "Admin Dashboard",
       description: "Admin dashboard UI with charts and analytics.",
       github: "https://github.com/Kalyani812002/dashboard",
-      live: " https://dashboard-lac-ten-84.vercel.app"
+      live: " https://dashboard-lac-ten-84.vercel.app/"
     },
     {
       name: "Health Checker App",
@@ -35,17 +35,10 @@ function App() {
       live: "https://health-checker-website.vercel.app/"
     },
     {
-      name: "Portfolio Website",
-      description: "Personal portfolio website built with React.",
-      github: "https://github.com/yourusername/portfolio",
-      live: "https://portfolio.vercel.app"
-    },
-
-    {
       name: "React Team Chat App",
       description: "Team chat application interface built with React.",
-      github: "https://github.com/Kalyani812002/team-chat-apps.git",
-      live: "https://team-chat-apps.vercel.app/"
+      github: "https://github.com/Kalyani812002/react-team-chat-apps",
+      live: "https://new-team-chat-app.vercel.app/"
     }
   ];
 
